@@ -1,11 +1,11 @@
-# About me 
+# About me 👋
 
 - My name is Paul Solovey
 - I am thirty four years old
 - I want to be a programmer
 
-Сheck out my photo :wink:
+Сheck out my photo 😉
 
-![cool guy](.\img\P_20170812_172105_BF.jpg)
+<img src=".\img\P_20170812_172105_BF.jpg" alt="cool guy" width="200"/>
 
 ## To be continued...
